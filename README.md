@@ -8,5 +8,7 @@
 ### 简单教程
 
 1.搜索 Alfred 下载安装。
+
 2.可以参照网上的教程破解：http://blog.niices.com/Alfred-Practical-Skills-Common-Workflow/
+
 3.全局使用 Option+空格键 可以调出 Alfred，它可以搜索数据、查找文件、切换程序和启动程序等功能。
